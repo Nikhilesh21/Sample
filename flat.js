@@ -39,7 +39,7 @@ export default class Login extends React.Component {
                     style={{
                         fontFamily: 'sans-serif', fontSize: 20, marginTop: 8, color: '#33ccff',
                         marginLeft: 60,textAlign:'center',marginLeft:100
-                    }}>Login </Text></View>
+                    }}>Login Page </Text></View>
     
         </TouchableHighlight>
         <View style={{ marginTop: 20, backgroundColor: "lightgrey", bottom: 0, width: 390, height: 100 }}>
